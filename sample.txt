@@ -1,0 +1,12 @@
+addition = f(x,y)=x+y
+
+valueOne = f(2,3)=2+3=5
+valueTwo = f(4,5)=4+5=9
+
+
+
+
+myFunction = f(x,y)=(x+y)*(x-y)
+
+subtraction = f(x,y)=x-y
+
